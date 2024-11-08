@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Hercules4328/KingLegacy/refs/heads/main/Matheuzxs"))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/(UPDATE-7)-King-Legacy-Storyshift-scriptd-not-owned-by-me-21546"))()
