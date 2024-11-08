@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenhubtop/zen_hub_pr/main/zennewwwwui.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hercules4328/KingLegacy/refs/heads/main/Matheuzxs"))()
